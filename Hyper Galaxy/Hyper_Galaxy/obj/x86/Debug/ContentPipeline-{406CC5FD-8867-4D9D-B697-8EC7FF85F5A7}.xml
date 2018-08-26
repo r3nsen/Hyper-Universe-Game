@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures\beta.png</Source>
+      <Name>Textures\beta</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Renato\Desktop\projects\LD42\HyperGalaxy\Hyper Galaxy\Hyper Galaxy\Hyper_Galaxy\bin\x86\Debug\Content\Textures\beta.xnb</Output>
+      <Time>2018-08-11T09:48:10.1472831-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\texture.png</Source>
+      <Name>Textures\texture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Renato\Desktop\projects\LD42\HyperGalaxy\Hyper Galaxy\Hyper Galaxy\Hyper_Galaxy\bin\x86\Debug\Content\Textures\texture.xnb</Output>
+      <Time>2018-08-11T22:52:49.4964706-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\planets.png</Source>
+      <Name>Textures\planets</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Renato\Desktop\projects\LD42\HyperGalaxy\Hyper Galaxy\Hyper Galaxy\Hyper_Galaxy\bin\x86\Debug\Content\Textures\planets.xnb</Output>
+      <Time>2018-08-11T23:01:26.247027-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\overworld.mp3</Source>
+      <Name>Sounds\overworld</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Renato\Desktop\projects\LD42\HyperGalaxy\Hyper Galaxy\Hyper Galaxy\Hyper_Galaxy\bin\x86\Debug\Content\Sounds\overworld.xnb</Output>
+      <Extra>C:\Users\Renato\Desktop\projects\LD42\HyperGalaxy\Hyper Galaxy\Hyper Galaxy\Hyper_Galaxy\bin\x86\Debug\Content\Sounds\overworld.wma</Extra>
+      <Time>2018-08-12T08:28:27.5856749-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\font.png</Source>
+      <Name>Textures\font</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Renato\Desktop\projects\LD42\HyperGalaxy\Hyper Galaxy\Hyper Galaxy\Hyper_Galaxy\bin\x86\Debug\Content\Textures\font.xnb</Output>
+      <Time>2018-08-12T14:20:02.3361666-03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{406CC5FD-8867-4D9D-B697-8EC7FF85F5A7}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Renato\Desktop\projects\LD42\HyperGalaxy\Hyper Galaxy\Hyper Galaxy\Hyper_GalaxyContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Renato\Desktop\projects\LD42\HyperGalaxy\Hyper Galaxy\Hyper Galaxy\Hyper_Galaxy\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Renato\Desktop\projects\LD42\HyperGalaxy\Hyper Galaxy\Hyper Galaxy\Hyper_Galaxy\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Renato\Desktop\projects\LD42\HyperGalaxy\Hyper Galaxy\Hyper Galaxy\Hyper_Galaxy\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2017-02-01T12:02:23.6779096-02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
